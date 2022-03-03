@@ -1,0 +1,13 @@
+.clock {
+    font-size: 48px;
+}
+
+.main-container {
+    height:600px;
+    display: flex;
+    flex-flow: column nowrap;
+    text-align: center;
+    gap: 32px;
+    align-content: center;
+    justify-content: center;
+}
